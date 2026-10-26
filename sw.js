@@ -1,4 +1,4 @@
-const CACHE = 'mufradati-static-v8';
+const CACHE = 'mufradati-static-v10';
 const ASSETS = ['./', './index.html', './styles.css', './app.js', './words.json', './manifest.json'];
 self.addEventListener('install', event => {
   event.waitUntil(caches.open(CACHE).then(cache => cache.addAll(ASSETS)));
