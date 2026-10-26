@@ -1,0 +1,11 @@
+{
+  "name": "مفرداتي الإنجليزية",
+  "short_name": "مفرداتي",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f7f5",
+  "theme_color": "#0f766e",
+  "icons": []
+}
